@@ -28,11 +28,9 @@ theme:
 extra: 
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/
-    - icon: fontawesome/brands/twitter
-      link: https://github.com/
+      link: https://github.com/larrytamnjong/blog
     - icon: fontawesome/brands/facebook
-      link: https://github.com/   
+      link: https://www.facebook.com/tamnjong.larrytabeh/   
 
 markdown_extensions: 
   - pymdownx.highlight:
@@ -52,5 +50,5 @@ markdown_extensions:
   
 
 copyright: 
-  © 2023 <a href="" target="_blank" rel="nooperner">Tamnjong</a>
+  © 2024 <a href="https://larrytamnjong.github.io/blog/" target="_blank" rel="nooperner">Tamnjong</a>
     
