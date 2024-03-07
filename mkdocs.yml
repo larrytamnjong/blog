@@ -1,0 +1,56 @@
+site_name: Blog -Tamnjong Larry Tabeh
+theme: 
+  name: material
+  features:
+   -navigation.tabs
+   -navigation.top
+   -toc-integrate
+   -navigation.sections
+   -content.code.copy
+   -search.suggest
+   -content.code.annotation
+   -content.tabs.link
+   -search-highlight
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: Teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: green
+      accent: lime
+extra: 
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/
+    - icon: fontawesome/brands/twitter
+      link: https://github.com/
+    - icon: fontawesome/brands/facebook
+      link: https://github.com/   
+
+markdown_extensions: 
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+ 
+      
+  
+
+copyright: 
+  © 2023 <a href="" target="_blank" rel="nooperner">Tamnjong</a>
+    
