@@ -1,6 +1,6 @@
 # A Guide to Testing Ushahidi for Accessibility 
 
-Today, we will be looking into the world of accessibility. To me, accessibility in software is simply where lines of code meet inclusivity. As an upcoming contributor to the Ushahidi platform and a member of the open-source learning community, I'm embarking on a task to improve the accessibility of the Ushahidi platform. The challenge today? Writing a comprehensive guide on how I would go about testing Ushahidi for accessibility. So, after days of scavenging the internet and mostly my brain – I'm going to unveil the techniques I would use in testing Ushahidi for accessibility.
+Today, we will be looking into the world of accessibility. To me, accessibility in software is simply where lines of code meet inclusivity. As an upcoming contributor to the Ushahidi platform and a member of the open-source learning community, I'm embarking on the task to improve the accessibility on the Ushahidi platform. The challenge today? Writing a comprehensive guide on how I would go about testing Ushahidi for accessibility. So, after days of scavenging the internet and mostly my brain – I'm going to unveil the techniques I would use in testing Ushahidi for accessibility.
 
 
 ## Step 1: Immersing myself into the Ushahidi platform
