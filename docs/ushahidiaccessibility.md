@@ -5,7 +5,7 @@ Today, we will be looking into the world of accessibility. To me, accessibility 
 
 ## Step 1: Immersing myself into the Ushahidi platform
 
-Every software can be viewed through two lenses: the lens of the developer and the lens of the end user. It's often easy for a developer to solely focus on the software from the development perspective, which may not align precisely with the user's experience. The first thing I would do when testing the Ushahidi platform for accessibility is to immerse myself and use the platform from the perspective of the end user.
+Every software can be viewed through two lenses: the lens of the developer and the lens of the end user. It's often easy for a developer to solely focus on the software from the development perspective, which may not align precisely with diverse users experiences. The first thing I would do when testing the Ushahidi platform for accessibility is to immerse myself and use the platform from the perspective of the end user.
 
 ## Step 2: Understanding standardized Accessibility Guidelines 
 
