@@ -28,7 +28,7 @@ theme:
 extra: 
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/larrytamnjong/blog
+      link: https://github.com/larrytamnjong
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/tamnjong.larrytabeh/   
 
