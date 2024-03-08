@@ -13,7 +13,7 @@ In today's world, following global standards and guidelines is important for dir
 
 ## Step 3: Setting Up a test environment
 
-My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Tools such as accessiBe, Siteimprove, Google Lighthouse and other necessary browser extensions. In this step basically my laptop will become an accessibility testing lab.
+My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Setting up tools such as accessiBe, Siteimprove, Google Lighthouse and other necessary browser extensions. In this step basically my laptop will become an accessibility testing lab.
 
 ## Step 4: Find bugs and document
 
@@ -21,7 +21,7 @@ Using the tools I set up in ```Step 3```, I will literally become a hunter, scou
 
 ## Step 5: Become a keyboard addict
 
-In this step I will Navigate the Ushahidi platform using only my keyboard. This hands-on approach ensures that users can navigate through the platform with or without a mouse.
+In this step I will navigate the Ushahidi platform using only my keyboard. This hands-on approach is aimed to ensure that users can navigate through the platform with or without a mouse. This particular test is very important because people with motor impairments would often use the keyboard than mouse.
 
 ## Step 6: Go in for a screen reader adventure
 
