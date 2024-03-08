@@ -1,4 +1,4 @@
-# A Guide to Testing Accessibility on Ushahidi
+# A Guide to Testing Ushahidi for Accessibility 
 
 Today, we will be looking into the world of accessibility. To me, accessibility in software is simply where lines of code meet inclusivity. As an upcoming contributor to the Ushahidi platform and a member of the open-source learning community, I'm embarking on a task to improve the accessibility of the Ushahidi platform. The challenge today? Writing a comprehensive guide on how I would go about testing Ushahidi for accessibility. So, after days of scavenging the internet and mostly my brain – I'm going to unveil the techniques I would use in testing Ushahidi for accessibility.
 
@@ -13,11 +13,11 @@ In today's world, following global standards and guidelines is important for dir
 
 ## Step 3: Setting Up a test environment
 
-My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Tools such as screen readers, keyboard navigation, and browser extensions. In this step basically my laptop will become an accessibility testing lab.
+My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Tools such as accessiBe, Siteimprove, Google Lighthouse and other necessary browser extensions. In this step basically my laptop will become an accessibility testing lab.
 
 ## Step 4: Find bugs and document
 
-Using the tools I set up in ```Step 3```, I will literally become a hunter, scouring the Ushahidi platform for any accessibility issues. I'll diligently hunt down all bugs and areas in the app where someone with a difficulty might face challenges accessing content. Once I identify a bug, I'll thoroughly document it for further analysis and resolution.
+Using the tools I set up in ```Step 3```, I will literally become a hunter, scouring the Ushahidi platform for any accessibility issues. I'll diligently hunt down all bugs and areas in the platform where someone with an impairment might face challenges accessing content. Once I identify a bug, I'll thoroughly document it for further analysis and resolution.
 
 ## Step 5: Become a keyboard addict
 
@@ -29,7 +29,7 @@ Screen readers play a crucial role in accessibility, especially for individuals 
 
 ## Step 7: Color exploration 
 
-Using tools like WebAIM Contrast Checker I will go ahead to check the color accessibility to the ushahidi platform.
+Using tools like WebAIM Contrast Checker I will go ahead to check the color accessibility of the ushahidi platform.
 
 
 ## Step 8: Document my findings
