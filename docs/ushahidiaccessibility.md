@@ -13,7 +13,7 @@ In today's world, following global standards and guidelines is important for dir
 
 ## Step 3: Setting Up a test environment
 
-My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Setting up tools such as accessiBe, Siteimprove, Google Lighthouse and other necessary browser extensions. In this step basically my laptop will become an accessibility testing lab.
+My next step will be to find and put in place the necessary tools needed to test the Ushahidi platform for accessibility. Setting up tools such as accessiBe, Siteimprove, Google Lighthouse, axe DevTools, VoiceOver and other necessary browser extensions. In this step basically my laptop will become an accessibility testing lab.
 
 ## Step 4: Find bugs and document
 
