@@ -36,4 +36,8 @@ Using tools like WebAIM Contrast Checker I will go ahead to check the color acce
 
 Documentation is just as important as every other aspect of this guideline. I will  document my findings, creating a blueprint for enhancing the accessibility of the Ushahidi platform. These records will serve as a valuable resource for implementing necessary improvements and ensuring a more inclusive user experience.
 
+## Step 9: Test with actual accessibility
+
+According to me the ultimate validation of accessibility efforts comes from real users with diverse abilities. In this step, I will engage with individuals who have disabilities to ensure that the Ushahidi platform genuinely meets their needs. This step involves real-world testing scenarios with users facing specific challenges, such as those with motor disabilities or visual impairments.
+
 So, why embark on this journey? The benefits are boundless! By ensuring Ushahidi's accessibility, we empower users of all abilities. We create an open digital frontier, welcoming diverse voices and experiences. The code we write isn't just lines – it's a bridge connecting people.
